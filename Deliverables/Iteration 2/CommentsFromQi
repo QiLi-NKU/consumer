@@ -1,0 +1,15 @@
+Congratulations! You almost finished the whole project already in the Iteration 2. You won 23 out of 24 in the cross-group evaluation system. In your personal reviews, you two can see the contributions from each other. Trent found a nice UML tool, Argo. I hope Trey can also use the similar tool in your personal assignment. Also your group can actively involve in the project discussions.
+However, you should pay attention to the following things:
+1.	Login and login alternate flow should be in the same “system sequence diagrams” using OPT frame box, and the same as the “register” use case (-5)
+2.	Please update use case model as well as the descriptions of each use case. (5)
+3.	Add all action items in the Iteration Plan to the GitHub repository's issue tracker. (5)
+4.	Some “readme” files for the codes. (5pts)
+5.	Design diagram should be matched to the codes. For example, “log in” in SSD has the corresponding file in the code “login”, although there is another file called “logout”. But I didn’t find the “register” file. (5 pt)
+
+Some comments from other groups
+1.	Nice presentation for two members; add things other than populations
+2.	Great implementation
+3.	Cool idea, look good
+4.	Looks and woks good
+5.	Very clean layout
+6.	Look nice
